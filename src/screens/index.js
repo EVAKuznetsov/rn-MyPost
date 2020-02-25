@@ -1,0 +1,5 @@
+export { default as AboutScreen } from './AboutScreen'
+export { default as BookedScreen } from './BookedScreen'
+export { default as CreatePostScreen } from './CreatePostScreen'
+export { default as MainScreen } from './MainScreen'
+export { default as PostScreen } from './PostScreen'
